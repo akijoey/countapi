@@ -32,7 +32,7 @@ Run container.
 
 | Environment variables | Description                                                         |
 | --------------------- | ------------------------------------------------------------------- |
-| `REDISHOST`           | The hostname or IP address of the Redis database..                  |
+| `REDISHOST`           | The hostname or IP address of the Redis database.                   |
 | `REDISPORT`           | The port number of the Redis database.                              |
 | `REDISUSER`           | The username for the Redis database, if authentication is required. |
 | `REDISPASSWORD`       | The password for the Redis database, if authentication is required. |
